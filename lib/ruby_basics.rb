@@ -23,6 +23,6 @@ def last_evaluated_value(stuff)
    stuff
 end
 
-def pizza_party
-
+def pizza_party(stuff)
+   stuff
 end
