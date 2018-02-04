@@ -20,7 +20,7 @@ def return_a_value(stuff)
 end
 
 def last_evaluated_value(stuff)
-   'expert'
+   stuff
 end
 
 def pizza_party(stuff)
