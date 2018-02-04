@@ -24,5 +24,5 @@ def last_evaluated_value(stuff)
 end
 
 def pizza_party(stuff)
-   'default'
+   stuff
 end
